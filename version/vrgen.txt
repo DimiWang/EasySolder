@@ -1,0 +1,12 @@
+This is universal version generator
+
+USAGE:
+	*****Version generation utility 1.03*****
+	vrgen.exe [-m,v,b,ds,d] [-n] [-f"FileName"]
+		-mv - version in format 0001.0001 -> 0001.0002 ->,...
+		-n - new major version 00010001 -> 00020000
+		-mb - binary 00010001 ->00010002 ->,...
+		-md or no parameter - format  Tue Apr 23 10:37:59 2013
+		-mds - {{dd,MM,yyyy},{hh,mm,ss}}
+
+

@@ -1,0 +1,29 @@
+[Files]
+DataFormat=CSV Altium
+Data=C:/Users/fg67bz/PROJECTS/easy-solder/example/Pick Place for L702_DB_CSTSSOP20-0.65-KG1030-FA02-EE1(FA BACK SIDE).csv
+TopImage=C:/Users/fg67bz/PROJECTS/easy-solder/example/1top.png
+BottomImage=C:/Users/fg67bz/PROJECTS/easy-solder/example/1bot.png
+DataOffset=1
+
+[Model]
+PartColon=0
+CodeColon=-2
+ValueColon=10
+PosXColon=2
+PosYColon=3
+DescriptionColon=-2
+LayerColon=8
+TopLayer=TopLayer
+BottomLayer=BottomLayer
+
+[General]
+TopTP1_Enabled=true
+TopTP1_X=146
+TopTP1_Y=735
+TopTP1_X1=129.025
+TopTP1_Y1=156.075
+TopTP2_Enabled=true
+TopTP2_X=242
+TopTP2_Y=401
+TopTP2_X1=136.55
+TopTP2_Y1=129.625

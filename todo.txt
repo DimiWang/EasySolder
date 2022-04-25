@@ -1,0 +1,15 @@
+1. Fullscreen mode
+2. Step - done by each part 
+  make Left Right arrow make it done undone and make part point with grey color
+3. Option key definition for all shotcuts
+4. Define part way
+5. component type
+6. right part make QTableView
+7. implement skip
+8. Implement custom file format
+9. progress bar
+10. Export to many png
+11. Project with progress
+12. Export CSV
+13. Sound
+
